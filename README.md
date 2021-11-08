@@ -1,1 +1,1 @@
-# completeWebDevIn2018
+# Facial Recognition using Clarifai and Tensorflow.
